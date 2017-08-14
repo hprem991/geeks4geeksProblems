@@ -6,6 +6,8 @@ import java.lang.*;
 //Given an array where every element occurs three times, except one element which occurs only once
 //http://www.geeksforgeeks.org/find-the-element-that-appears-once/
 
+// NOTE: Better Solution to this problem in leetCode.Medium, this is just another approach
+
 /*
  * 
 Let us consider the example array {5, 5, 5, 8}. The 101, 101, 101, 1000
