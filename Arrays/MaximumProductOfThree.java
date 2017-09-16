@@ -2,6 +2,27 @@ package Arrays;
 import java.lang.*;
 import java.util.*;
 
+
+//Given an integer array, find a maximum product of a triplet in array.
+
+
+//http://www.geeksforgeeks.org/find-maximum-product-of-a-triplet-in-array/
+// Array can have the negative values as well
+
+
+/* Examples 
+  Input:  [10, 3, 5, 6, 20]
+  Output: 1200
+  Multiplication of 10, 6 and 20
+ 
+  Input:  [-10, -3, -5, -6, -20]
+  Output: -90
+
+  Input:  [1, -4, 3, -6, 7, 0]
+  Output: 168
+ */
+
+
 public class MaximumProductOfThree {
 	
 	int maximumProductOfThree(int arr[]){
